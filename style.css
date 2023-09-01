@@ -1,0 +1,28 @@
+.container{
+  /* padding: 10px; */
+  display: flex;
+}
+p{
+  padding: 10px;
+}
+
+.p1{
+  background-color: antiquewhite;
+  flex: 1;
+  order:3;
+  
+}
+
+.p2{
+  background-color: chartreuse;
+  flex: 1;
+  order:2;
+  
+}
+
+.p3{
+  background-color: darkgray;
+  flex:2;
+  order:1;
+  
+}
